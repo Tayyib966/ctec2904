@@ -1,2 +1,4 @@
 #!/bin/bash
-echo Hello, World!
+echo Fare thee well!
+echo Hello World
+echo Quicker version!
